@@ -1,0 +1,4 @@
+entero a = 25
+flotante e = 75.3
+b = ¿5
+c = '

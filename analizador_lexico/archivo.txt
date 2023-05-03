@@ -1,0 +1,12 @@
+entero = 1
+decimal = 2.45
+cadena = hola mundo 1.2
+#
+si
+1 > 2
+sino
+x = 1
+y = 100
+suma = x + y
+¿hola como estas?
+@
